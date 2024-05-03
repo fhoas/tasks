@@ -1,0 +1,15 @@
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/bin/Debug/net7.0/Task1
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/bin/Debug/net7.0/Task1.dll
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/Task1.dll
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/farid/Desktop/Code/R.I.S.K/Tasks/Task1/obj/Debug/net7.0/ref/Task1.dll
